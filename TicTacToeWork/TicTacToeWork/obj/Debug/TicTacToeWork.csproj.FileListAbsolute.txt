@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\bin\Debug\TicTacToeWork.exe.config
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\bin\Debug\TicTacToeWork.exe
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\bin\Debug\TicTacToeWork.pdb
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\obj\Debug\TicTacToeWork.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\obj\Debug\TicTacToeWork.Form1.resources
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\obj\Debug\TicTacToeWork.Properties.Resources.resources
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\obj\Debug\TicTacToeWork.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\obj\Debug\TicTacToeWork.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\obj\Debug\TicTacToeWork.exe
+C:\Users\user\source\repos\TicTacToeWork\TicTacToeWork\obj\Debug\TicTacToeWork.pdb
